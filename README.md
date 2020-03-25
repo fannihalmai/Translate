@@ -2,7 +2,6 @@
 
 **Table of Contents**
 
-[TOC]
 
 This is a pytorch implementation of the transformer model adapted from the official repos of the [Annotated Transformer](https://github.com/harvardnlp/annotated-transformer).
 To understand the model better, read the original paper:  [Vaswani et al., 2017](https://arxiv.org/abs/1706.03762), the [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) or [see my blog](www.machinelearnit.com)
